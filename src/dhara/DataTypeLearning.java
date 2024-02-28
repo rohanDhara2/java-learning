@@ -16,8 +16,8 @@ public class DataTypeLearning{
         int i = 2147483647; // 4 byte
         long l = 9223372036854775807l; // 8 byte
 
-        float ft = 12.72F;
-        double d = 78.1245;
+        float ft = 12.72F; //4 bytes
+        double d = 78.1245; // 8 bytes in java default is double not float
 
         char c= 'a';
 
