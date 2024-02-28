@@ -2,10 +2,10 @@ package dhara;
 /*
     There are two categories of datatype in java
     1.Primitive 2. Non-Primitive
-    1.Primitive --->> int(byte,short,int,long),double(float,double),char,boolean etc .
+    1.Primitive --->> Integer(byte,short,int,long),Float(float,double),Character(char),Boolean(boolean) etc .
     int has default value 0 and double has 0.0
     default value of boolean in java is false
-    2.Non-Primitive --->> String,Array,Object,Interaface etc.
+    2.Non-Primitive --->> String,Array,Object,Interface etc.
 
  */
 public class DataTypeLearning{
