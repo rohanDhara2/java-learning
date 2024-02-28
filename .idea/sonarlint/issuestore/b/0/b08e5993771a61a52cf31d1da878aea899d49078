@@ -1,10 +1,10 @@
 
 W
-java:S1854"5Remove this useless assignment to local variable "c".(¦À­Çùÿÿÿÿ8ÿÄŸÒŞ1
-W
-java:S1854"5Remove this useless assignment to local variable "d".(üıŒøÿÿÿÿ8ÿÄŸÒŞ1
+java:S1854"5Remove this useless assignment to local variable "c".(âèàøÿÿÿÿ8ÿÄŸÒŞ1
+R
+java:S1854"5Remove this useless assignment to local variable "d".(üÁ–Ç8ÿÄŸÒŞ1
 S
-java:S1854"6Remove this useless assignment to local variable "ft".(·¡•8ÿÄŸÒŞ1
+java:S1854"6Remove this useless assignment to local variable "ft".(æ©Œ¹8ÿÄŸÒŞ1
 W
 java:S1854"5Remove this useless assignment to local variable "l".(ÔËÉ¿ıÿÿÿÿ8€ÅŸÒŞ1
 R
@@ -22,10 +22,10 @@ java:S1481"&Remove this unused "i" local variable.(Õäê›8‚ÅŸÒŞ1
 H
 java:S1481"&Remove this unused "l" local variable.(ÔËÉ¿ıÿÿÿÿ8„ÅŸÒŞ1
 D
-java:S1481"'Remove this unused "ft" local variable.(·¡•8„ÅŸÒŞ1
+java:S1481"'Remove this unused "ft" local variable.(æ©Œ¹8„ÅŸÒŞ1
+C
+java:S1481"&Remove this unused "d" local variable.(üÁ–Ç8„ÅŸÒŞ1
 H
-java:S1481"&Remove this unused "d" local variable.(üıŒøÿÿÿÿ8„ÅŸÒŞ1
-H
-java:S1481"&Remove this unused "c" local variable.(¦À­Çùÿÿÿÿ8…ÅŸÒŞ1
+java:S1481"&Remove this unused "c" local variable.(âèàøÿÿÿÿ8…ÅŸÒŞ1
 I
 java:S1481"'Remove this unused "bl" local variable.(³”º¶üÿÿÿÿ8Ú˜ ÒŞ1
