@@ -5,3 +5,5 @@ H
 src/dhara/Variables.java,6\c\6c04b7aff89423308a8ba33bc35474cf3855e9df
 G
 src/dhara/Literals.java,b\d\bdb6199fa155941dfef38c9e71b978861464b047
+M
+src/dhara/TypeConversion.java,0\3\03838b491fe59d248c5338c6a39662859c28b44c
