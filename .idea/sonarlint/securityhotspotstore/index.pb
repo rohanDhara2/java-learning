@@ -17,3 +17,7 @@ T
 $src/dhara/MultiDimensionalArray.java,5\d\5d6700377dcce565ee638bc8a8bf14a954381a82
 J
 src/dhara/JaggedArray.java,6\0\602eef2151270c488ea5e2e7db814cb4b59d24ef
+M
+src/dhara/ArrayofObjects.java,d\2\d282add0dee17b78f0c1a4639a23dde13ee164a9
+M
+src/dhara/ArrayOfObjects.java,5\e\5ee591b3a7f85e6c0f214329e82882ba86f4031f
