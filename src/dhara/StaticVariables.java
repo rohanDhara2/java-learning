@@ -2,8 +2,9 @@ package dhara;
 /*
     Static variables are shared by all the objects.If we change the value of static variable it will be changed for all the objects.
     Static variables are accessed by their class name not using object reference.
-    Static variables can be used inside not static methods.
+    Static variables can be used inside non-static methods.
     Static variables are the members of the class only not the object that's why we can use classname.static-variablename to access it.
+    But instance variables cannot be used inside static methods directly. we have to use object reference.
  */
 class Mobile{
     static String name;
@@ -12,6 +13,10 @@ class Mobile{
 
     public void show(){
         System.out.println(brand+" "+price+" "+name);
+    }
+    public static void show1(Mobile ob){
+        System.out.println(ob.brand+" "+ob.price+" "+name);
+
     }
 }
 public class StaticVariables {
@@ -30,5 +35,8 @@ public class StaticVariables {
 
         obj1.show();
         obj2.show();
+
+        Mobile.show1(obj1);
+        Mobile.show1(obj2);
     }
 }
