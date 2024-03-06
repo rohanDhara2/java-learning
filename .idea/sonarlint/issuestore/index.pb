@@ -27,3 +27,5 @@ H
 src/dhara/StringTwo.java,1\d\1de67df92f2cb4adcbb878c42f89ae52bd7842ac
 X
 (src/dhara/StringBufferStringBuilder.java,8\3\83fcb335a8a85e7802787714d52394c446832f0b
+N
+src/dhara/StaticVariables.java,5\c\5cb621f85458f4bfd7a42a6890c910469c339876
