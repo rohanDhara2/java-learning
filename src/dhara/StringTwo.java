@@ -1,5 +1,6 @@
 package dhara;
 /*
+    String are Immutable in Java.
     As Strings are immutable in java, so we cannot change the value of a string, it is constant.
     in line no 10 we are not changing the value of myName. we are creating another object and assigning the address
     of it to myName.
