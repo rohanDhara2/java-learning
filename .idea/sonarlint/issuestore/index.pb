@@ -29,3 +29,7 @@ X
 (src/dhara/StringBufferStringBuilder.java,8\3\83fcb335a8a85e7802787714d52394c446832f0b
 N
 src/dhara/StaticVariables.java,5\c\5cb621f85458f4bfd7a42a6890c910469c339876
+J
+src/dhara/staticBlock.java,a\4\a465c0a69a6ded5b90c415b1be8b67f1d29d2ac7
+J
+src/dhara/StaticBlock.java,d\e\de6a8dccb36c1a71ad4504dcd9c36e923a386757
