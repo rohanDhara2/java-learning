@@ -33,3 +33,5 @@ J
 src/dhara/staticBlock.java,a\4\a465c0a69a6ded5b90c415b1be8b67f1d29d2ac7
 J
 src/dhara/StaticBlock.java,d\e\de6a8dccb36c1a71ad4504dcd9c36e923a386757
+L
+src/dhara/Encapsulation.java,1\8\180954a29a1106e5a2c52eaa4e8ee6b62cb8b018
