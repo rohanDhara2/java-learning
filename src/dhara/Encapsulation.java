@@ -4,7 +4,7 @@ package dhara;
     if someone want to access it they can use methods,
     so we are binding the data with the methods,
     encapsulating the data with methods is called encapsulation
-
+    this keyword refers current object, which object it is called by
  */
 class Human{
     private String name;
