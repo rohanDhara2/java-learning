@@ -37,3 +37,5 @@ L
 src/dhara/Encapsulation.java,1\8\180954a29a1106e5a2c52eaa4e8ee6b62cb8b018
 K
 src/dhara/Constructors.java,4\2\427fcba81f71e327cad8ef71ef8ef3709a43abda
+N
+src/dhara/AnonymousObject.java,b\0\b0e1c27e2509ccc578fb05c94c1c2dc959156f83
