@@ -39,3 +39,5 @@ K
 src/dhara/Constructors.java,4\2\427fcba81f71e327cad8ef71ef8ef3709a43abda
 N
 src/dhara/AnonymousObject.java,b\0\b0e1c27e2509ccc578fb05c94c1c2dc959156f83
+P
+ src/dhara/SimpleInheritance.java,8\7\8741d775c34e500cf2614473f269bb1c72c1c437
