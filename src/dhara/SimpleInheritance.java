@@ -4,6 +4,27 @@ package dhara;
     one class is inheriting another one class that is called single level inheritance.
     here calculator is extended by AdvanceCalculator and AdvanceCalculator is extended by MoreAdvanceCalculator, it is a multilevel inheritance.
  */
+
+/*
+    class A
+    {
+        public void show(){
+
+        }
+    }
+    class B
+    {
+     public void show(){
+
+        }
+    }
+    class C extends A,B //Multiple inheritance not possible
+    {
+        C obj;
+        obj.show();// it will be confused to choose which class's show() to call that's why java doesn't support multiple inheritance
+    }
+
+ */
 class Calculator{
     public int add(int n1,int n2)
     {
