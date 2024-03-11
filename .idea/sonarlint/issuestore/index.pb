@@ -41,3 +41,5 @@ N
 src/dhara/AnonymousObject.java,b\0\b0e1c27e2509ccc578fb05c94c1c2dc959156f83
 P
  src/dhara/SimpleInheritance.java,8\7\8741d775c34e500cf2614473f269bb1c72c1c437
+K
+src/dhara/SuperAndThis.java,0\4\04013c50a76ed0a4d61db31f6319a15ab0594ccf
