@@ -3,6 +3,7 @@ package dhara;
     In inheritance if we don't have .java file of super class that's ok. only we need the .class file .
     one class is inheriting another one class that is called single level inheritance.
     here calculator is extended by AdvanceCalculator and AdvanceCalculator is extended by MoreAdvanceCalculator, it is a multilevel inheritance.
+    by default every class extends Object class even if we don't mention
  */
 
 /*
@@ -21,7 +22,7 @@ package dhara;
     class C extends A,B //Multiple inheritance not possible
     {
         C obj;
-        obj.show();// it will be confused to choose which class's show() to call that's why java doesn't support multiple inheritance
+        obj.show();// it will be confused to choose which class's show() to call that's why java doesn't support multiple inheritanced
     }
 
  */
