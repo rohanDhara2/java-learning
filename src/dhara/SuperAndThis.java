@@ -2,7 +2,7 @@ package dhara;
 /*
     super() is always called first when a constructor is called, even if we not mention.
     Every class in Java extends Object class even we don't mention
-
+    this() have to be the statement inside methods.
  */
 class One
 {
@@ -31,6 +31,7 @@ class Two extends One
         System.out.println("in two's parameter const");
     }
 }
+
 public class SuperAndThis {
     public static void main(String[] args) {
         Two obj = new Two(6);
