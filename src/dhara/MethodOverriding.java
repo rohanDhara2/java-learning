@@ -2,6 +2,9 @@ package dhara;
 /*
     In method overriding if subclass's method signature is same with super class
     then subclass method will override the super class's method.This is called method overriding.
+    method overriding is also called runtime polymorphism & method overloading is called compile time polymorphism.
+    compile time polymorphism -> early binding
+    runtime polymorphism -> late binding
 
  */
 class Desk
