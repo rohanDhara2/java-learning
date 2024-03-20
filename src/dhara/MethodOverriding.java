@@ -10,7 +10,7 @@ class Desk
         return n1+n2;
     }
 }
-class Notebook
+class Notebook extends Desk
 {
     public int canAdd(int n1,int n2) // same type same number of parameter needed to override
     {
