@@ -1,18 +1,0 @@
-
-\
-java:S1854":Remove this useless assignment to local variable "score3".(Å‘¿¾şÿÿÿÿ8çÆõûŞ1
-W
-java:S1854
-":Remove this useless assignment to local variable "score2".(ÅÕ°Û8çÆõûŞ1
-\
-java:S1854":Remove this useless assignment to local variable "score1".(å¸ƒÇÿÿÿÿÿ8èÆõûŞ1
-M
-java:S1481"+Remove this unused "score1" local variable.(å¸ƒÇÿÿÿÿÿ8éÆõûŞ1
-]	java:S125"<This block of commented-out lines of code should be removed.(Ó†¹üÿÿÿÿ8éÆõûŞ1
-H
-java:S1481
-"+Remove this unused "score2" local variable.(ÅÕ°Û8êÆõûŞ1
-]	java:S125"<This block of commented-out lines of code should be removed.(±€°Íøÿÿÿÿ8êÆõûŞ1
-M
-java:S1481"+Remove this unused "score3" local variable.(Å‘¿¾şÿÿÿÿ8ëÆõûŞ1
-]	java:S125"<This block of commented-out lines of code should be removed.(ş–Áıøÿÿÿÿ8ëÆõûŞ1
