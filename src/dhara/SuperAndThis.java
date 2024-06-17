@@ -9,12 +9,15 @@ class One
     public One()
     {
         super(); //calls the Object class's constructor
-        System.out.println("in one's default const");
+        //System.out.println("in one's default const");
     }
     public One(int n)
     {
-        this(); //it will call the constructor of same class
-        System.out.println("in one's Parameter const");
+        this(5,6); //it will call the constructor of same class
+        //System.out.println("in one's Parameter const");
+    }
+    public One(int a,int b){
+        System.out.println(a+" "+b);
     }
 
 }
@@ -23,12 +26,12 @@ class Two extends One
     public Two()
     {
         super(2); //calls super class's parameterized constructor
-        System.out.println("in two's default const");
+        //System.out.println("in two's default const");
     }
     public Two(int n)
     {
         this(); //it will call the constructor of same class
-        System.out.println("in two's parameter const");
+        //System.out.println("in two's parameter const");
     }
 }
 
